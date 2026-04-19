@@ -64,7 +64,10 @@ Production-grade Kubernetes platform with GitOps, observability, and full DevSec
 `EKS` `ArgoCD` `Prometheus` `Grafana` `HashiCorp Vault` `Karpenter`
 
 ### ☸️ [AWS Terraform Modules](https://github.com/kiransurya-devops/aws-terraform-modules)
-Production-grade reusable AWS Terraform modules. Used across 15+ services at enterprise scale. Covers VPC, EKS, RDS Multi-AZ, ALB, ASG, S3, EFS, Karpenter, and IRSA. Reduced provisioning errors by 70%.
+
+Production-grade, reusable Terraform modules for AWS infrastructure. Used across 15+ services at enterprise scale. Covers VPC, EKS, RDS Multi-AZ, ALB, ASG, S3, EFS, Karpenter, and IRSA. Reduced provisioning errors by 70%.
+`VPC` `EKS` `RDS Multi-AZ` `ALB` `ASG` `S3` `EFS` `Karpenter` `IRSA`
+
 ---
 
 ## 📈 GitHub Stats
